@@ -32,24 +32,6 @@ I’m Rafael Claro, a university student passionate about technology and softwar
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-<p align="center">
-    <a href="https://discord.com/users/456794789656920065">
-        <img src="https://lanyard.cnrad.dev/api/456794789656920065" />
-    </a>
-    <br />
-		<a href="https://discord.com/users/456794789656920065/">
-			<img src="https://img.shields.io/badge/Profile-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-		</a>
-	<br>
-    <a href="https://github.com/FranciscoRibeiro03">
-        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/FranciscoRibeiro03?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"
-        />
-        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=FranciscoRibeiro03" />
-    </a>
-</p>
-
 
 
 ### 🔧 Tools
